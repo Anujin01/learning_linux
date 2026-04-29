@@ -1,1 +1,37 @@
-# learning_linux
+# 🐧 Learning Linux
+
+A personal notebook documenting my journey learning Linux fundamentals hands-on notes, commands, and "aha" moments from real labs.
+
+---
+
+## 📁 Repository Structure
+
+```
+learning_linux/
+└── linux_fundamentals.md   # Notes from TryHackMe: Linux Fundamentals Part 1
+```
+
+---
+
+## 🎯 Goal
+
+Work through the TryHackMe Linux Fundamentals path and document everything I learn along the way commands, concepts, and anything that trips me up.
+
+---
+
+## 🛠️ Tools & Platforms
+
+- [TryHackMe](https://tryhackme.com) - interactive labs
+- Linux terminal (bash)
+
+---
+
+## 📈 Progress
+
+| Room | Path | Status |
+|---|---|---|
+| Linux Fundamentals Part 1 | Pre-Security | ✅ Done |
+
+---
+
+*Updated as I go - this is a living document.*
