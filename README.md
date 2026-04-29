@@ -30,7 +30,7 @@ Work through the TryHackMe Linux Fundamentals path and document everything I lea
 
 | Room | Path | Status |
 |---|---|---|
-| linux_fundamentals.md | Pre-Security | ✅ Done |
+| [ linux_fundamentals.md](./linux_fundamentals.md) | Pre-Security | ✅ Done |
 
 ---
 
