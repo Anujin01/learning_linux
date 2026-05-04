@@ -8,7 +8,9 @@ A personal notebook documenting my journey learning Linux fundamentals hands-on 
 
 ```
 learning_linux/
-└── linux_fundamentals.md   # Notes from TryHackMe: Linux Fundamentals Part 1
+├── linux_fundamentals.md   # Notes from TryHackMe: Linux Fundamentals Part 1
+├── linux_fundamentals2.md  # Notes from TryHackMe: Linux Fundamentals Part 2
+
 ```
 
 ---
